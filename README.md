@@ -93,8 +93,9 @@ The production-ready build will be generated in the `dist/` directory.
 
 # 👨‍💻 Developer
 
-**Goutam Soni** - Java FullStack Developer
+**Goutam Soni** - Java FullStack Developer..
 **Lavkesh Khare** - Java Backend Developer
+
 ```
 React | Vite | Bootstrap | REST API | Git
 ```
